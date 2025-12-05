@@ -159,11 +159,3 @@ Funções utilitárias como:
 | `utils` | Funções auxiliares | Apoio ao código e formatação |
 
 ---
-
-# Aula 02
-
-arquivos adicionados:
-
-useEvolution.js
-modal
-App.jsx alterado para ter o modal
